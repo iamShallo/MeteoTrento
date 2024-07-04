@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwnf2FV8pOBNDcBq761SgKDRg1HntwkV8oLsClc/VHVe2vnzgFp25ONyYFKRzBGPWRig3q1M6j1FbdwtTFgylQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romin\\Downloads\\MeteoTrento\\MeteoTrento\\ServiziMeteoTrento\\ServiziMeteoTrento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
