@@ -11,3 +11,9 @@ Di sviluppare un’applicazione web in grado di visuallizzare il bollettino mete
 - Far funzionare l’applicativo in un container # Docker
 
 Composizione del gruppo : Francesco Caldarelli (118393), Aziz Gazzella () e Giovanni Luongo (118863)
+
+Per far partire il programma :
+1) Avvia docker desktop
+2) Crea una build dal docker file
+3) Ora fai docker run -p 8080:80 nome-immagine
+4) Nel browser ora digita localhost/home
