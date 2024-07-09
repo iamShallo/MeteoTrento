@@ -10,7 +10,7 @@ Di sviluppare un’applicazione web in grado di visuallizzare il bollettino mete
 
 - Far funzionare l’applicativo in un container # Docker
 
-Composizione del gruppo : Francesco Caldarelli (118393), Aziz Gazzella () e Giovanni Luongo (118863)
+Composizione del gruppo : Francesco Caldarelli (118393) e Giovanni Luongo (118863)
 
 Per far partire il programma :
 1) Avvia docker desktop
