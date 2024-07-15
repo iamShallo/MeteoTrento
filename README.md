@@ -6,7 +6,7 @@ Di sviluppare un’applicazione web in grado di visuallizzare il bollettino mete
 
 - Visualizzare i dati in una interfaccia web (sfruttando anche immagini fornite dal servizio nell’interfaccia grafica)
 
-- Creare un WS SOAP che faccia da «convertitore», convertendo servizio REST JSON in uno SOAP, e permetta di ricercare il meteo per uno specifico giorno
+- Creare un WS SOAP che faccia da «convertitore», convertendo servizio REST JSON in uno SOAP.
 
 - Far funzionare l’applicativo in un container # Docker
 
